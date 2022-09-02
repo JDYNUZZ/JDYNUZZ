@@ -1,0 +1,1 @@
+{"file": "/hci/chaoran_data/android-12.0.0_r31/frameworks/base/core/jni/android_security_Scrypt.cpp", "jni_methods": [{"java_fun": "nativeScrypt", "java_sig": "([B[BIIII)[B", "cpp_fun": "android_security_Scrypt_nativeScrypt", "java_fun_full": "android.security.Scrypt byte[] nativeScrypt(byte[], byte[], int, int, int, int)"}], "dependency": []}

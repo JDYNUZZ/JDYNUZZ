@@ -1,0 +1,1 @@
+{"file": "/hci/chaoran_data/android-12.0.0_r31/frameworks/base/services/core/jni/com_android_server_stats_pull_StatsPullAtomService.cpp", "jni_methods": [{"java_fun": "initializeNativePullers", "java_sig": "()V", "cpp_fun": "initializeNativePullers", "java_fun_full": "com.android.server.stats.pull.StatsPullAtomService void initializeNativePullers()"}], "dependency": []}

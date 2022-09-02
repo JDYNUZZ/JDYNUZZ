@@ -1,0 +1,1 @@
+{"file": "/hci/chaoran_data/android-12.0.0_r31/frameworks/base/media/jni/android_media_ResampleInputStream.cpp", "jni_methods": [{"java_fun": "fir21", "java_sig": "([BI[BII)V", "cpp_fun": "android_media_ResampleInputStream_fir21", "java_fun_full": "android.media.ResampleInputStream void fir21(byte[], int, byte[], int, int)"}], "dependency": []}

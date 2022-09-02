@@ -1,0 +1,1 @@
+{"file": "/hci/chaoran_data/android-12.0.0_r31/frameworks/base/core/jni/com_android_internal_os_KernelCpuTotalBpfMapReader.cpp", "jni_methods": [{"java_fun": "readInternal", "java_sig": "()[J", "cpp_fun": "KernelCpuTotalBpfMapReader_readInternal", "java_fun_full": "com.android.internal.os.KernelCpuTotalBpfMapReader long[] readInternal()"}], "dependency": []}
